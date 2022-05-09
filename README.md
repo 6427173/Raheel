@@ -2,27 +2,6 @@
 Project Portfolios
 
 
-
- Decompilers online
- File Name: com.voicetyping.arabickeyboard.speech.dictation.recognition_1_apps.evozi.com.apk, Done.
-   
- Java decompilers
- APK decompiler
- ApkTool online
- Download Jad
- Decompilation Results
- Decompilation Results
-File Name: com.voicetyping.arabickeyboard.speech.dictation.recognition_1_apps.evozi.com.apk
-Decompiler: jadx
-Job status: Done.
-
-
-
- Twitter  Facebook  Stumbleupon  LinkedIn
-
- com.voicetyping.arabickeyboard.speech.dictation.recognition_1_apps.evozi.com.apk  sources  com  Keyboard  ArabicKeyboard  MainActivity.java
-package com.Keyboard.ArabicKeyboard;
-
 import android.app.Activity;
 import android.app.AlertDialog;
 import android.content.BroadcastReceiver;
